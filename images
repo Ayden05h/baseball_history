@@ -1,1 +1,7 @@
-
+project/
+│
+├─ index.html
+├─ page2.html
+└─ images/
+    ├─ baseball1.jpg
+    └─ baseball2.jpg
